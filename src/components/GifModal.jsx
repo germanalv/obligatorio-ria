@@ -36,7 +36,7 @@ export const GifModal = ({ onImageSelect }) => {
                                 <img src={selectedImageUrl} alt="Seleccionada" />
                             </div>
                             <div className="col-2">
-                                <button className="btn btn-dark">Enviar GIF</button>
+                                <button className="btn btn-dark" data-bs-dismiss="modal">Enviar GIF</button>
                             </div>
                         </div>
                     )}
