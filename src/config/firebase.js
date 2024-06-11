@@ -4,14 +4,14 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB7DRcENyNqlr78YniR5K6eNmLkPhItL3M",
-  authDomain: "tupenca-89082.firebaseapp.com",
-  databaseURL: "https://tupenca-89082-default-rtdb.firebaseio.com",
-  projectId: "tupenca-89082",
-  storageBucket: "tupenca-89082.appspot.com",
-  messagingSenderId: "950387435992",
-  appId: "1:950387435992:web:8934ffcafd755c2b756aad",
-  measurementId: "G-7Q5V0ZGWSE"
+  apiKey: "AIzaSyDaLeEOhmVojm4YtXanZswBsigWhATCxcw",
+  authDomain: "ria2024-9563d.firebaseapp.com",
+  projectId: "ria2024-9563d",
+  storageBucket: "ria2024-9563d.appspot.com",
+  messagingSenderId: "1063022978788",
+  appId: "1:1063022978788:web:d1b2be7979f4b9db95eef1",
+  measurementId: "G-SJG6PHPF3J"
+
 };
 
 
