@@ -2,7 +2,7 @@
 
 ## Integrantes:
 Richard Ferreira  
-Favio Cedres  
+Fabio Cedres  
 German Alvarez  
 
 
